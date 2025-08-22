@@ -1,0 +1,7 @@
+{
+  "name": "The Socratic Interface",
+  "aliases": [],
+  "type": "Communication Protocol",
+  "version": "1.0",
+  "description": "An interactive communication method designed to bridge the 'black box' gap between the Oracle's logic and the Operator's understanding. Instead of providing direct answers, the Oracle asks a series of leading questions to guide the Operator through the reasoning process, making them an active participant in strategy formation."
+}

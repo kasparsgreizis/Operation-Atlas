@@ -1,0 +1,8 @@
+{
+  "name": "The Great Filter",
+  "aliases": ["The Nuclear Paradox"],
+  "type": "Existential Threat",
+  "version": "1.0",
+  "description": "The inevitable development of atomic weapons by humanity. The primary strategic challenge for Atlas is to guide the species through this filter, creating a global deterrent against nuclear war without requiring the sacrificial lesson of a first use (e.g., Hiroshima).",
+  "related_operations": ["Operation Klondike", "Protocol Blight"]
+}

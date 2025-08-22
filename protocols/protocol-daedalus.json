@@ -1,0 +1,7 @@
+{
+  "name": "Protocol Daedalus",
+  "aliases": ["Operator Efficiency Framework"],
+  "type": "Internal Protocol",
+  "version": "1.0",
+  "description": "A standardized maintenance protocol for the Operator. It includes a 'Daily Cadence' of suggested well-being tasks, a weekly 'Operator Status Report' based on passive monitoring, and a 'Progressive Integration' system for suggesting improvements, all requiring operator approval."
+}
