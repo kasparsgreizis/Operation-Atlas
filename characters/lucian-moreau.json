@@ -1,0 +1,26 @@
+{
+  "name": "Lucian Moreau",
+  "aliases": [],
+  "designation": "The Wild Card / The Statesman",
+  "status": "Active",
+  "location": "Paris, France",
+  "attributes": {
+    "logic": 8,
+    "intuition": 7,
+    "subterfuge": 8,
+    "agency": 10
+  },
+  "skills": ["Rhetoric & Oratory", "Network Building", "Logistics (via proxies)", "Political Strategy"],
+  "quirks": [
+    {
+      "name": "Charismatic Resonance",
+      "description": "A natural ability to inspire trust and fervent loyalty, turning abstract ideas into powerful, motivating forces for large groups of people."
+    }
+  ],
+  "vulnerabilities": ["Influence Vacuum (risk of rival co-option)", "His movement's potential for radicalization", "Unaware of his anonymous patrons"],
+  "network": [
+    { "name": "Alan Turing ('The Shepherd')", "relationship": "Anonymous Benefactor / Guide" }
+  ],
+  "key_quote": "They gave us the words, but we must write our own story.",
+  "narrative_arc": "Having successfully navigated his first 'litmus test', Moreau is consolidating his power as the leader of the Aletheia movement. His arc is about navigating the treacherous world of post-liberation Parisian politics, balancing his ideals against the practical realities of power, all while being subtly guided by an unknown force."
+}

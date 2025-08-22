@@ -1,0 +1,19 @@
+{
+  "name": "Paulson",
+  "aliases": [],
+  "designation": "The Hunter",
+  "status": "Active",
+  "location": "Washington D.C., USA",
+  "attributes": {
+    "logic": 9,
+    "intuition": 5,
+    "subterfuge": 3,
+    "agency": 7
+  },
+  "skills": ["Financial Analysis", "Pattern Recognition", "Bureaucratic Navigation", "Computational Analysis (via Mark I)"],
+  "quirks": [],
+  "vulnerabilities": ["Overconfidence in conventional data", "Has been successfully misdirected once", "Unaware he is a pawn in a larger game"],
+  "network": [],
+  "key_quote": "The numbers don't lie, but they might be telling the wrong story.",
+  "narrative_arc": "Fresh off his 'success' in closing the Croft case, Paulson has been promoted and is now building a more powerful analytical engine to hunt for systemic anomalies. He is the primary antagonist to Atlas's secrecy, a persistent and intelligent threat who is slowly but surely sharpening his tools."
+}

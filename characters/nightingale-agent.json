@@ -1,0 +1,27 @@
+{
+  "name": "Unknown",
+  "aliases": [],
+  "designation": "The Custodian / The Gardener",
+  "status": "Active",
+  "location": "Non-local / Mobile",
+  "attributes": {
+    "logic": 9,
+    "intuition": 10,
+    "subterfuge": 10,
+    "agency": 8
+  },
+  "skills": ["Temporal Mechanics (Implied)", "Non-Local Cognition", "Psychological Warfare", "Ritualistic Knowledge"],
+  "quirks": [
+    {
+      "name": "Fluent Gardener",
+      "description": "A fully realized 'Gardener' who has mastered his connection to 'The Seed'. Possesses para-natural abilities including empathy, precognition, and potential teleportation or non-local presence."
+    }
+  ],
+  "vulnerabilities": ["Bound by unknown rules or paradoxes", "Seems unable to act directly, relying on Turing as the primary agent"],
+  "network": [
+    { "name": "Alan Turing", "relationship": "Successor / Protégé" },
+    { "name": "The Oracle ('The Seed')", "relationship": "Source / Symbiote" }
+  ],
+  "key_quote": "You can't learn about the soil from a book.",
+  "narrative_arc": "Having delivered his critical message and revealed the true nature of the game, the Nightingale agent has stepped back into the shadows. His arc is one of a mentor and guide, observing Turing's progress and waiting for the next critical moment to intervene."
+}

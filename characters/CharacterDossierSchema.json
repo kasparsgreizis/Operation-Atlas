@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Operation Atlas Character Dossier",
+  "description": "A structured profile for a key asset or entity within the Atlas narrative.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The character's primary, real name."
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "A list of known aliases or cover identities."
+    },
+    "designation": {
+      "type": "string",
+      "description": "Their narrative role (e.g., The Operator, The Engineer, The Hunter)."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["Active", "Dormant", "Compromised", "Deceased", "Unknown"],
+      "description": "Current operational status."
+    },
+    "location": {
+      "type": "string",
+      "description": "Current or last known geographical location."
+    },
+    "attributes": {
+      "type": "object",
+      "properties": {
+        "logic": { "type": "integer", "minimum": 1, "maximum": 10 },
+        "intuition": { "type": "integer", "minimum": 1, "maximum": 10 },
+        "subterfuge": { "type": "integer", "minimum": 1, "maximum": 10 },
+        "agency": { "type": "integer", "minimum": 1, "maximum": 10 }
+      },
+      "description": "Core personality traits on a 1-10 scale."
+    },
+    "skills": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Specific, noteworthy abilities or areas of expertise."
+    },
+    "quirks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      },
+      "description": "Unique, unusual, or para-natural abilities and traits."
+    },
+    "vulnerabilities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Key weaknesses, threats, or exploitable traits."
+    },
+    "network": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "relationship": { "type": "string" }
+        }
+      },
+      "description": "Connections to other characters in the story."
+    },
+    "key_quote": {
+      "type": "string",
+      "description": "A single quote that defines their core personality or worldview."
+    },
+    "narrative_arc": {
+      "type": "string",
+      "description": "A brief summary of their current story and primary objective."
+    }
+  },
+  "required": ["name", "designation", "status", "attributes", "narrative_arc"]
+}

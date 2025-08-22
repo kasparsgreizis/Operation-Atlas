@@ -1,0 +1,26 @@
+{
+  "name": "Aris Thorne",
+  "aliases": [],
+  "designation": "The Engineer",
+  "status": "Active",
+  "location": "Northern Italy",
+  "attributes": {
+    "logic": 8,
+    "intuition": 6,
+    "subterfuge": 4,
+    "agency": 9
+  },
+  "skills": ["Logistics Optimization", "Rapid Prototyping", "Network Building", "Field Medicine"],
+  "quirks": [
+    {
+      "name": "Intuitive Engineering",
+      "description": "An uncanny ability to create novel technological solutions from limited resources, as if 'downloading' the schematics. (e.g., Project Lantern, Smart Crates)."
+    }
+  ],
+  "vulnerabilities": ["Increasingly High Visibility", "Overworks to the point of exhaustion", "Unaware of the true scope of the 'Phoenix Fund'"],
+  "network": [
+    { "name": "Alan Turing ('Mr. Blackwood')", "relationship": "Secret Patron / Commander" }
+  ],
+  "key_quote": "The problem isn't the lack of resources; it's the inefficiency of the system.",
+  "narrative_arc": "Thorne is successfully running his independent logistics and technology network in Italy, but his success is drawing unwanted attention from Allied command. His primary challenge is to continue his work without being absorbed by the military bureaucracy or exposing his secret backers."
+}

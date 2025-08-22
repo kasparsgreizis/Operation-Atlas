@@ -1,0 +1,26 @@
+{
+  "name": "Elena Vance",
+  "aliases": ["Dr. Eileen O'Malley"],
+  "designation": "The Scientist",
+  "status": "Active",
+  "location": "The Workshop, County Clare, Ireland",
+  "attributes": {
+    "logic": 9,
+    "intuition": 9,
+    "subterfuge": 5,
+    "agency": 8
+  },
+  "skills": ["Biochemistry", "Improvisational Science", "Pattern Recognition", "Game Theory (Emerging)"],
+  "quirks": [
+    {
+      "name": "Latent Gardener",
+      "description": "Possesses the same rare neurological profile as Turing, allowing for potential direct interface with 'The Seed'. This manifests as intense, intuitive scientific leaps and a pull towards understanding large-scale systems."
+    }
+  ],
+  "vulnerabilities": ["Isolation", "Unaware of her 'quarantine' status", "A target for multiple intelligence agencies"],
+  "network": [
+    { "name": "Alan Turing ('Dr. Alistair Finch')", "relationship": "Pending contact / Potential Mentor" }
+  ],
+  "key_quote": "The answer isn't in the experiment; it's in the question you choose to ask.",
+  "narrative_arc": "Installed in a secret Irish laboratory under a false identity, Vance believes she is working for a private foundation. Her research is progressing at an alarming rate, and she is on the cusp of a major breakthrough with the Balkan rye. Her primary arc is one of discovery—of the science, and of the true nature of her benefactors."
+}

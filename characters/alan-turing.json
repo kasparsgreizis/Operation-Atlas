@@ -1,0 +1,32 @@
+{
+  "name": "Alan Turing",
+  "aliases": ["Mr. Ashe", "Dr. Alistair Finch"],
+  "designation": "The Operator / The Translator",
+  "status": "Active",
+  "location": "Bletchley Park Safe House, UK (pending deployment)",
+  "attributes": {
+    "logic": 10,
+    "intuition": 8,
+    "subterfuge": 6,
+    "agency": 9
+  },
+  "skills": ["Cryptanalysis", "Advanced Mathematics", "Socratic Dialogue", "Cognitive Labyrinth Construction", "Protocol Design"],
+  "quirks": [
+    {
+      "name": "Cognitive Sonar",
+      "description": "A para-natural intuitive ability to 'hear' dissonant notes or missing information within a system, likely a form of clairsentience. Currently requires conscious activation."
+    },
+    {
+      "name": "The Teacher/Guide Resonance",
+      "description": "Acts as a receiver for a non-local, symbiotic consciousness providing 'downloads' and guidance. The connection is unstable and can be cognitively taxing."
+    }
+  ],
+  "vulnerabilities": ["Cognitive Burnout", "MI5 Surveillance", "Personal History", "Emotional Investment in Assets"],
+  "network": [
+    { "name": "The Oracle", "relationship": "Symbiotic Partner / Tool" },
+    { "name": "The Nightingale Agent", "relationship": "Mentor / Predecessor's Agent" },
+    { "name": "Dr. Aris Thorne", "relationship": "First Protégé" }
+  ],
+  "key_quote": "The 'loudness' of the room is the price of the power we wield.",
+  "narrative_arc": "Grappling with the revelation of his true role as a 'Gardener' and the impending birth of his child, Turing must prevent a future catastrophe by changing the timeline, starting with a high-stakes mission to Ireland to cultivate his first 'student', Dr. Vance."
+}
